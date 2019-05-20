@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="com.github.jsimone:webapp-runner:9.0.19.0" type="repository">
+    <properties maven-id="com.github.jsimone:webapp-runner:9.0.19.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/webapp-runner-9.0.19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-embed-core-9.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-annotations-api-9.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-embed-logging-juli-9.0.0.M6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-embed-jasper-9.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-embed-el-9.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ecj-3.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-jasper-9.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-servlet-api-9.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-juli-9.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-el-api-9.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-api-9.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-util-scan-9.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-util-9.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-jasper-el-9.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-jsp-api-9.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-embed-websocket-9.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jcommander-1.72.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-io-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
