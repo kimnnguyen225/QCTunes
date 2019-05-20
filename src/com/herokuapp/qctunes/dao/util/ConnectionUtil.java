@@ -11,7 +11,8 @@ public class ConnectionUtil {
         try {
             // forces the driver to register itself,
             // so that Java knows how to handle those database connection strings
-            Class.forName("com.mysql.cj.jdbc.Driver");
+            // Class.forName("com.mysql.cj.jdbc.Driver");
+            Class.forName("org.postgresql.Driver");
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         }
