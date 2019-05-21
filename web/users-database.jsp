@@ -65,14 +65,10 @@
                                                       alt="Kim Nguyen brand">
                     </li>
                     <li><a href="index.jsp">Home</a></li>
-                    <li><a href='#music'>Music</a></li>
-                    <li><a href='#video'>Video</a></li>
-                    <li><a href='#gift-cards'>Gift Cards</a></li>
-                    <li><a href='register.jsp'>Register</a></li>
                     <li><a href='https://ktnguyen.herokuapp.com' target="_blank">Contact Me</a></li>
                     <div class="topnav-right hide-on-small">
                         <!--  <input id="log-out" class="login-button" type="button" value="Logout">-->
-                        <a href="#index.jsp" id="log-out" class="btn btn-light">Logout</a>
+                        <a href="index.jsp" id="log-out" class="btn btn-light">Logout</a>
                     </div>
                 </ul>
                 <a href='#' id='openup'>Menu</a>
@@ -91,20 +87,6 @@
             <div class="row align-items-baseline justify-content-center">
                 <div class="col-12 col-sm-12 col-md-11 col-lg-9 col-xl-9">
                     <div class="input-group mb-3">
-                        <div class="input-group-prepend">
-                            <button type="button" class="btn btn-outline-secondary">Search
-                                by:</button>
-                            <button type="button" class="btn btn-outline-secondary dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <span class="sr-only">Toggle Dropdown</span>
-                            </button>
-                            <div class="dropdown-menu">
-                                <a class="dropdown-item" href="#">Username</a>
-                                <a class="dropdown-item" href="#">First Name</a>
-                                <a class="dropdown-item" href="#">Last Name</a>
-                                <div role="separator" class="dropdown-divider"></div>
-                                <a class="dropdown-item" href="#">Phone Number</a>
-                            </div>
-                        </div>
                             <input type="text" class="form-control"
                                aria-label="Text input with segmented dropdown button"
                                placeholder="Search..." ng-model="searchText"/>

@@ -60,11 +60,13 @@
                         <h3 class="green-alert">${successMessage}</h3>
                     </div>
                     <div class="input-group input-group-icon">
-                        <input type="text" placeholder="QC-Tunes ID" required="required" name="un"/>
+                        <input type="text" placeholder="QC-Tunes ID (admin)"
+                               required="required" name="un"/>
                         <div class="input-icon"><i class="fa fa-key"></i></div>
                     </div>
                     <div class="input-group input-group-icon">
-                        <input type="password" placeholder="Password" required="required" name="pw"/>
+                        <input type="password" placeholder="Password (admin)" required="required"
+                               name="pw"/>
                         <div class="input-icon"><i class="fa fa-key"></i></div>
                     </div>
                     <div>
