@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="com.github.jsimone:webapp-runner:8.5.11.3" type="repository">
+    <properties maven-id="com.github.jsimone:webapp-runner:8.5.11.3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/webapp-runner-8.5.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-embed-core-8.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-embed-logging-juli-8.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-embed-jasper-8.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-embed-el-8.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ecj-4.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-jasper-8.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-servlet-api-8.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-juli-8.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-el-api-8.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-api-8.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-util-scan-8.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-util-8.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-jasper-el-8.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-jsp-api-8.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tomcat-embed-websocket-8.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jcommander-1.48.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-io-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
