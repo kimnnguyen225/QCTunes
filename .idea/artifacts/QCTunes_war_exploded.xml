@@ -11,8 +11,12 @@
           <element id="library" level="project" name="mysql:mysql-connector-java:8.0.16" />
           <element id="library" level="project" name="gson-2.8.5" />
           <element id="library" level="project" name="Java EE 6-Java EE 6" />
+          <element id="library" level="project" name="org.apache.tomcat:tomcat-dbcp:9.0.11" />
+          <element id="library" level="project" name="com.github.jsimone:webapp-runner:9.0.19.0" />
+          <element id="module-output" name="QCTunes" />
         </element>
       </element>
+      <element id="library" level="project" name="com.github.jsimone:webapp-runner:9.0.19.0" />
     </root>
   </artifact>
 </component>
